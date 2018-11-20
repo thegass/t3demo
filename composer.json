@@ -3,7 +3,7 @@
     "description": "t3 demo setup",
     "type": "project",
     "require": {
-        "typo3/minimal": "^9.5"
+        "typo3/minimal": "^8.7"
     },
     "license": "GPL-V2",
     "authors": [
